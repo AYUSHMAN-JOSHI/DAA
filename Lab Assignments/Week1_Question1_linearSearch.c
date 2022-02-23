@@ -1,5 +1,13 @@
-/**Write a program of linear search for t test cases,which also prints the no. of comparisons made in each test case.
+/*
+WEEk-1
+23-Feb-2022
+Wednesday.
+
+Question1:
+Write a program of linear search for t test cases,which also prints the no. of comparisons made in each test case.
 Print "Key Found" if found and Print "Key Not Found" if it is not found in the array. */
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #include<stdio.h>
 int main()
